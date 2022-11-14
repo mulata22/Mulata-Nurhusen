@@ -1,4 +1,4 @@
-![Mul-Git](https://user-images.githubusercontent.com/85038923/201554234-6b32b80d-7524-40c8-8869-2d66f94a68cf.jpg)
+![Mul1-git](https://user-images.githubusercontent.com/85038923/201555844-f301bc25-8f31-424d-9eba-36d08fe80430.jpg)
 A freelancer Software tester & web developer
 ### 👨🏫 &nbsp; About
 
@@ -47,7 +47,7 @@ All rights reserved by Mulata Nurhusen @2021
 <!-- web related playlists starts here  -->
 
 [Mulata]: https://www.youtube.com/channel/UCPuvqzNAzgMVx1lFgNZXRYg 
-All rights reserved by Mulata Nurhusen@2015
+
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
