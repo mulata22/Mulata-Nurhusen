@@ -1,4 +1,5 @@
-![MN-Banner1png](https://user-images.githubusercontent.com/85038923/201564121-489862c3-118f-44f1-a437-18e28b8f1943.png)
+![MN-Banner2](https://user-images.githubusercontent.com/85038923/201564497-97f30926-cd87-4451-af07-6815d72305cb.png)
+
 A freelancer Software tester & web developer
 ### 👨🏫 &nbsp; About
 
