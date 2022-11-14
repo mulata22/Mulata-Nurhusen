@@ -1,5 +1,5 @@
 ![Mul-Git](https://user-images.githubusercontent.com/85038923/201554234-6b32b80d-7524-40c8-8869-2d66f94a68cf.jpg)
-@@ A freelancer Software tester & web developer
+A freelancer Software tester & web developer
 ### 👨🏫 &nbsp; About
 
 <p align="justify">
@@ -7,7 +7,7 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 </p>
 
 <br />
-@@ -72,6 +67,7 @@ My WORK EXPERIENCE.
+My WORK EXPERIENCE.
 <br/>
 <br/>
 
@@ -15,7 +15,7 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 - [Principal System & Database Administrator (Federal Housing Corporation)][ www.fhc.gov.et]
 - [System & Database Administrator (Ethiopian Management Institute)][ www.emi.gov.et]
 - [G.Manager (MNM Technology Solutions)][ www.mnm.com.et]
-@@ -132,12 +128,16 @@ alt="Java" width="240" height="180" border="10" /></a>
+
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
@@ -28,7 +28,7 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 | Database Administrator | Mekelle Zone Office of Capacity Building                                    | 13/02/2007 –  28/02/2008  | Mekelle, Tigrai   |
 <br />
 <!-- work experience section ends here  -->
-@@ -186,8 +186,8 @@ alt="Java" width="240" height="180" border="10" /></a>
+
 
 ### 🏅 Training & Achievements:
 
@@ -41,13 +41,13 @@ Following to my graduation in BSc Degree in Applied Mathematics and achieved sev
 - Innovation African Digital Summit 2012, Addis Ababa, Ethiopia
 
 ---
-@@ -208,7 +208,7 @@ All rights reserved by Mulata Nurhusen @2021
+All rights reserved by Mulata Nurhusen @2021
 [github]: https://github.com/Mulata22
 
 <!-- web related playlists starts here  -->
 
 [Mulata]: https://www.youtube.com/channel/UCPuvqzNAzgMVx1lFgNZXRYg 
-@@ -225,7 +225,6 @@ All rights reserved by Mulata Nurhusen@2015
+All rights reserved by Mulata Nurhusen@2015
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
