@@ -1,5 +1,5 @@
 ![Mul-Git](https://user-images.githubusercontent.com/85038923/201554234-6b32b80d-7524-40c8-8869-2d66f94a68cf.jpg)
-@@ -23,12 +23,7 @@ A freelancer Software tester & web developer
+@@ A freelancer Software tester & web developer
 ### 👨🏫 &nbsp; About
 
 <p align="justify">
