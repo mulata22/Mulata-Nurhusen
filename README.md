@@ -47,10 +47,10 @@ All rights reserved by Mulata Nurhusen @2021
 
 <!-- web related playlists starts here  -->
 
-[Mulata]: https://www.youtube.com/channel/UCPuvqzNAzgMVx1lFgNZXRYg 
+[Mulata]: https://www.youtube.com/@mulatanurhusen6614 
 
 <!-- web related playlists ends here  -->
 
 <!-- cse related playlists starts here  -->
 
-[cplaylist]: https://www.youtube.com/channel/UCPuvqzNAzgMVx1lFgNZXRYg
+[cplaylist]: https://www.youtube.com/@mulatanurhusen6614
